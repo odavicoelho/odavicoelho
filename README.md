@@ -1,8 +1,8 @@
 # Hi, I'm Davi.
 
-**`Software Engineer`**
+**`AI Data Engineer`**
 
-My name is Davi Coelho, I'm a Software Engineer and future Scientist, currently located in Brazil. \
+My name is Davi Coelho, I'm an AI Data Engineer and future Scientist, currently located in Brazil. \
 This is my own personal Lab where I build and test things. Some of them become something, some of them
 do not. \
 Feel free to look around!
